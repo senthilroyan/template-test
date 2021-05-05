@@ -1,0 +1,10 @@
+html {
+  box-sizing: border-box;
+  /* it prevents padding extra width or extra height (scroll bar) of the page */
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  /* viewport height */
+}
